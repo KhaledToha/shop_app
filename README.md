@@ -1,4 +1,4 @@
-# myapp
+# Shop_app
 
 An eCommerce app devoloped by flutter.
 
